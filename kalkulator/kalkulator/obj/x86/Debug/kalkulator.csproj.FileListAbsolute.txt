@@ -1,0 +1,6 @@
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/bin/Debug/kalkulator.exe
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/bin/Debug/kalkulator.pdb
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/obj/x86/Debug/kalkulator.csprojAssemblyReference.cache
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/obj/x86/Debug/kalkulator.csproj.CoreCompileInputs.cache
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/obj/x86/Debug/kalkulator.exe
+/home/vengefulone/Desktop/C#/kalkulator/kalkulator/kalkulator/obj/x86/Debug/kalkulator.pdb
