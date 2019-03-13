@@ -18,7 +18,7 @@ namespace kalkulator
             Console.WriteLine("3. Perkalian");
             Console.WriteLine("4. Pembagian");
             Console.WriteLine();
-            Console.Write("Masukkan Pilihan : ");
+            Console.Write("Masukkan Pilihan [1..4] : ");
             pilih = int.Parse(Console.ReadLine());
             Console.WriteLine("\n");
 
@@ -62,7 +62,7 @@ namespace kalkulator
                     break;
 
                 default:
-                    Console.WriteLine("input tidak valid");
+                    Console.WriteLine("Maaf, menu yang anda pilih tidak tersedia");
                     break;
             }
            

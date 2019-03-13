@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{ADB3AF23-BCC1-4268-B581-EED1409E619C}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="kalkulator/Program.cs">
     <Files>
-      <File FileName="kalkulator/Program.cs" Line="22" Column="36" />
+      <File FileName="kalkulator/Program.cs" Line="71" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
